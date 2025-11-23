@@ -52,4 +52,6 @@ To test that the game is working correctly:
 
 ## **7\. Screenshots**
 
-*(Optional: You can insert screenshots of the game running in the terminal here)*
+*\!\[\](result1)*
+
+*\!\[\](result2)*

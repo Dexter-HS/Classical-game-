@@ -52,5 +52,5 @@ To test that the game is working correctly:
 
 ## **7\. Screenshots**
 
-![](result1)
-![](result2)
+![](result1.png)
+![](result2.png)
